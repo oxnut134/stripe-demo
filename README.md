@@ -1,4 +1,5 @@
-# Stripe Subscription Demo (Next.js) conflict test in main
+# Stripe Subscription Demo (Next.js)
+# Pull Request test4
 
 Next.js (App Router) + Stripe Checkout を使ったサブスクリプション決済のデモアプリです。
 ログイン不要で、Free / Pro / Enterprise の3プランを表示し、Pro・EnterpriseはStripe Checkoutでテスト決済できます。
